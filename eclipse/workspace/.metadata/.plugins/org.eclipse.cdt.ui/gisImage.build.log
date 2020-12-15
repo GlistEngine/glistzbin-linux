@@ -1,0 +1,29 @@
+19:05:12 **** Incremental Build of configuration Release for project gisImage ****
+/usr/bin/make all 
+/usr/local/bin/cmake -S/home/noyan/dev/glist/glistengine/samples/gisImage -B/home/noyan/dev/glist/glistengine/samples/gisImage/build/Release --check-build-system CMakeFiles/Makefile.cmake 0
+/usr/local/bin/cmake -E cmake_progress_start /home/noyan/dev/glist/glistengine/samples/gisImage/build/Release/CMakeFiles /home/noyan/dev/glist/glistengine/samples/gisImage/build/Release/CMakeFiles/progress.marks
+/usr/bin/make -f CMakeFiles/Makefile2 all
+make[1]: Entering directory '/home/noyan/dev/glist/glistengine/samples/gisImage/build/Release'
+/usr/bin/make -f CMakeFiles/GlistEngine.dir/build.make CMakeFiles/GlistEngine.dir/depend
+make[2]: Entering directory '/home/noyan/dev/glist/glistengine/samples/gisImage/build/Release'
+cd /home/noyan/dev/glist/glistengine/samples/gisImage/build/Release && /usr/local/bin/cmake -E cmake_depends "Unix Makefiles" /home/noyan/dev/glist/glistengine/samples/gisImage /home/noyan/dev/glist/glistengine/samples/gisImage /home/noyan/dev/glist/glistengine/samples/gisImage/build/Release /home/noyan/dev/glist/glistengine/samples/gisImage/build/Release /home/noyan/dev/glist/glistengine/samples/gisImage/build/Release/CMakeFiles/GlistEngine.dir/DependInfo.cmake --color=
+make[2]: Leaving directory '/home/noyan/dev/glist/glistengine/samples/gisImage/build/Release'
+/usr/bin/make -f CMakeFiles/GlistEngine.dir/build.make CMakeFiles/GlistEngine.dir/build
+make[2]: Entering directory '/home/noyan/dev/glist/glistengine/samples/gisImage/build/Release'
+make[2]: Nothing to be done for 'CMakeFiles/GlistEngine.dir/build'.
+make[2]: Leaving directory '/home/noyan/dev/glist/glistengine/samples/gisImage/build/Release'
+[ 88%] Built target GlistEngine
+/usr/bin/make -f CMakeFiles/gisImage.dir/build.make CMakeFiles/gisImage.dir/depend
+make[2]: Entering directory '/home/noyan/dev/glist/glistengine/samples/gisImage/build/Release'
+cd /home/noyan/dev/glist/glistengine/samples/gisImage/build/Release && /usr/local/bin/cmake -E cmake_depends "Unix Makefiles" /home/noyan/dev/glist/glistengine/samples/gisImage /home/noyan/dev/glist/glistengine/samples/gisImage /home/noyan/dev/glist/glistengine/samples/gisImage/build/Release /home/noyan/dev/glist/glistengine/samples/gisImage/build/Release /home/noyan/dev/glist/glistengine/samples/gisImage/build/Release/CMakeFiles/gisImage.dir/DependInfo.cmake --color=
+make[2]: Leaving directory '/home/noyan/dev/glist/glistengine/samples/gisImage/build/Release'
+/usr/bin/make -f CMakeFiles/gisImage.dir/build.make CMakeFiles/gisImage.dir/build
+make[2]: Entering directory '/home/noyan/dev/glist/glistengine/samples/gisImage/build/Release'
+make[2]: Nothing to be done for 'CMakeFiles/gisImage.dir/build'.
+make[2]: Leaving directory '/home/noyan/dev/glist/glistengine/samples/gisImage/build/Release'
+[100%] Built target gisImage
+make[1]: Leaving directory '/home/noyan/dev/glist/glistengine/samples/gisImage/build/Release'
+/usr/local/bin/cmake -E cmake_progress_start /home/noyan/dev/glist/glistengine/samples/gisImage/build/Release/CMakeFiles 0
+
+19:05:12 Build Finished. 0 errors, 0 warnings. (took 624ms)
+

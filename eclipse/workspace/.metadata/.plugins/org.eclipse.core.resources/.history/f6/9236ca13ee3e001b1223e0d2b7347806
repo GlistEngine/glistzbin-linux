@@ -1,0 +1,68 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/noyan/dev/glist/glistengine/engine/base/gBaseApp.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/base/gBaseApp.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/base/gBaseCanvas.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/base/gBaseCanvas.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/base/gBasePlugin.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/base/gBasePlugin.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/core/backward.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/core/backward.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/core/gAppManager.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/core/gAppManager.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/core/gAppObject.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/core/gAppObject.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/core/gBaseWindow.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/core/gBaseWindow.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/core/gCanvasManager.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/core/gCanvasManager.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/core/gGLFWWindow.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/core/gGLFWWindow.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/core/gObject.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/core/gObject.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/core/gRenderObject.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/core/gRenderObject.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/core/gRenderer.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/core/gRenderer.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gCamera.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gCamera.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gFont.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gFont.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gImage.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gImage.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gLight.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gLight.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gMaterial.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gMaterial.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gMesh.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gMesh.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gModel.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gModel.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gNode.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gNode.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gRect.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gRect.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gShader.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gShader.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gSkinnedMesh.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gSkinnedMesh.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gTexture.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gTexture.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/gVbo.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/gVbo.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/primitives/gBox.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/primitives/gBox.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/graphics/primitives/gPlane.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/graphics/primitives/gPlane.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/media/gBaseSound.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/media/gBaseSound.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/media/gFmodSound.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/media/gFmodSound.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/types/gColor.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/types/gColor.cpp.o"
+  "/home/noyan/dev/glist/glistengine/engine/utils/gUtils.cpp" "/home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/utils/gUtils.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS_CXX
+  "GlistEngine_EXPORTS"
+  )
+
+# The include file search paths:
+set(CMAKE_CXX_TARGET_INCLUDE_PATH
+  "../../../libs/stb/include"
+  "../../../libs/fmod/include"
+  "../../../libs/utf8/include"
+  "../../utils"
+  "../../types"
+  "../../media"
+  "../../graphics"
+  "../../graphics/primitives"
+  "../../base"
+  "../../core"
+  "/usr/include/freetype2"
+  "/usr/local/lib"
+  "../../../../zbin/glistzbin-linux/mingw64/lib"
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

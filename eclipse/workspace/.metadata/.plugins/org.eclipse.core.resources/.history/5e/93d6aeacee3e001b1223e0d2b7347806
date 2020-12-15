@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/base/gBaseApp.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/base/gBaseCanvas.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/base/gBasePlugin.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/core/backward.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/core/gAppManager.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/core/gAppObject.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/core/gBaseWindow.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/core/gCanvasManager.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/core/gGLFWWindow.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/core/gObject.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/core/gRenderObject.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/core/gRenderer.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gCamera.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gFont.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gImage.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gLight.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gMaterial.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gMesh.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gModel.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gNode.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gRect.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gShader.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gSkinnedMesh.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gTexture.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/gVbo.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/primitives/gBox.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/graphics/primitives/gPlane.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/media/gBaseSound.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/media/gFmodSound.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/types/gColor.cpp.o"
+  "CMakeFiles/GlistEngine.dir/home/noyan/dev/glist/glistengine/engine/utils/gUtils.cpp.o"
+  "libGlistEngine.pdb"
+  "libGlistEngine.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/GlistEngine.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

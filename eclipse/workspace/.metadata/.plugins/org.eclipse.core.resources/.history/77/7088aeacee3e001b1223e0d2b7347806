@@ -1,0 +1,12 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/GlistApp.dir/src/GameCanvas.cpp.o"
+  "CMakeFiles/GlistApp.dir/src/gApp.cpp.o"
+  "CMakeFiles/GlistApp.dir/src/main.cpp.o"
+  "GlistApp"
+  "GlistApp.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/GlistApp.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
