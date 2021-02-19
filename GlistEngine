@@ -1,1 +1,3 @@
-/home/noyan/dev/glist/zbin/glistzbin-linux/eclipse/eclipsecpp-2020-09/eclipse
+#!/bin/bash
+exec eclipse/eclipsecpp-2020-09/eclipse -data eclipse/workspace "$@"
+
