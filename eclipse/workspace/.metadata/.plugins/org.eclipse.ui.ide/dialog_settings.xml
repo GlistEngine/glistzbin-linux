@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
-		<item key="OUTSIDE_LOCATION" value="/home/noyan/dev/glist/glistengine/engine"/>
+		<item key="OUTSIDE_LOCATION" value="/home/noyan/dev/glist/myglistapps/GlistApp"/>
 	</section>
 	<section name="CleanDialogSettings">
 		<item key="TOGGLE_SELECTED" value="false"/>
