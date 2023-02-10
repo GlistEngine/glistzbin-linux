@@ -1,3 +1,5 @@
 mingw64/lib/libassimp.so.5.0.0 filter=lfs diff=lfs merge=lfs -text
 mingw64/lib/libassimp.so.5 filter=lfs diff=lfs merge=lfs -text
 mingw64/lib/libassimp.so filter=lfs diff=lfs merge=lfs -text
+libassimp.* filter=lfs diff=lfs merge=lfs -text
+**libassimp.* filter=lfs diff=lfs merge=lfs -text
