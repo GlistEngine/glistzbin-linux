@@ -4,7 +4,6 @@ repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp
 repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_.eclipseextension/isSystem=true
 repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_.eclipseextension/name=/home/noyan/dev/glist/zbin/glistzbin-linux/eclipse/eclipsecpp-2020-09/.eclipseextension
 repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_.eclipseextension/provider=
-repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_.eclipseextension/suffix=eclipse
 repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_.eclipseextension/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_.eclipseextension/uri=file\:/home/noyan/dev/glist/zbin/glistzbin-linux/eclipse/eclipsecpp-2020-09/.eclipseextension
 repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_.eclipseextension/version=1
@@ -14,6 +13,13 @@ repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp
 repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_configuration_org.eclipse.osgi_1981_data_listener_1925729951/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
 repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_configuration_org.eclipse.osgi_1981_data_listener_1925729951/uri=file\:/home/noyan/dev/glist/zbin/glistzbin-linux/eclipse/eclipsecpp-2020-09/configuration/org.eclipse.osgi/1981/data/listener_1925729951/
 repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_configuration_org.eclipse.osgi_1981_data_listener_1925729951/version=1.0.0
+repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_configuration_org.eclipse.osgi_254_data_listener_1925729951/description=
+repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_configuration_org.eclipse.osgi_254_data_listener_1925729951/isSystem=true
+repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_configuration_org.eclipse.osgi_254_data_listener_1925729951/name=dropins
+repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_configuration_org.eclipse.osgi_254_data_listener_1925729951/provider=
+repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_configuration_org.eclipse.osgi_254_data_listener_1925729951/type=org.eclipse.equinox.internal.p2.metadata.repository.LocalMetadataRepository
+repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_configuration_org.eclipse.osgi_254_data_listener_1925729951/uri=file\:/home/noyan/dev/glist/zbin/glistzbin-linux/eclipse/eclipsecpp-2020-09/configuration/org.eclipse.osgi/254/data/listener_1925729951/
+repositories/file\:_home_noyan_dev_glist_zbin_glistzbin-linux_eclipse_eclipsecpp-2020-09_configuration_org.eclipse.osgi_254_data_listener_1925729951/version=1
 repositories/http\:__download.eclipse.org_linuxtools_update/enabled=false
 repositories/http\:__download.eclipse.org_linuxtools_update/isSystem=false
 repositories/http\:__download.eclipse.org_linuxtools_update/uri=http\://download.eclipse.org/linuxtools/update

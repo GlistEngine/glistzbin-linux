@@ -1,4 +1,4 @@
-15:34:47 **** Incremental Build of configuration Release for project GlistApp ****
+17:44:09 **** Incremental Build of configuration Release for project GlistApp ****
 /usr/bin/gmake all 
 /usr/local/bin/cmake -S/home/noyan/dev/glist/myglistapps/GlistApp -B/home/noyan/dev/glist/myglistapps/GlistApp/build/Release --check-build-system CMakeFiles/Makefile.cmake 0
 /usr/local/bin/cmake -E cmake_progress_start /home/noyan/dev/glist/myglistapps/GlistApp/build/Release/CMakeFiles /home/noyan/dev/glist/myglistapps/GlistApp/build/Release/CMakeFiles/progress.marks
@@ -25,5 +25,5 @@ gmake[2]: Leaving directory '/home/noyan/dev/glist/myglistapps/GlistApp/build/Re
 gmake[1]: Leaving directory '/home/noyan/dev/glist/myglistapps/GlistApp/build/Release'
 /usr/local/bin/cmake -E cmake_progress_start /home/noyan/dev/glist/myglistapps/GlistApp/build/Release/CMakeFiles 0
 
-15:34:49 Build Finished. 0 errors, 0 warnings. (took 1s.429ms)
+17:44:11 Build Finished. 0 errors, 0 warnings. (took 1s.375ms)
 

@@ -8,5 +8,7 @@
 		<item key="DIALOG_WIDTH" value="563"/>
 		<item key="DIALOG_HEIGHT" value="369"/>
 		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		<item key="BUILD_NOW" value="true"/>
+		<item key="BUILD_ALL" value="true"/>
 	</section>
 </section>
