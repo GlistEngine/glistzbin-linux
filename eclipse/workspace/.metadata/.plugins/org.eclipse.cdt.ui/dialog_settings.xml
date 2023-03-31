@@ -4,14 +4,23 @@
 	</section>
 	<section name="org.eclipse.cdt.ui.text.hover.CMacroExpansionExploration">
 	</section>
-	<section name="OptionalMessageDialog.hide.">
-		<item key="askReindex.detail" value="0"/>
+	<section name="PDOMSearchPage">
 	</section>
-	<section name="org.eclipse.cdt.ui.OPEN_ACTION_SELECTION_DIALOG_SECTION">
-		<item key="DIALOG_X_ORIGIN" value="435"/>
-		<item key="DIALOG_Y_ORIGIN" value="50"/>
-		<item key="DIALOG_WIDTH" value="444"/>
-		<item key="DIALOG_HEIGHT" value="459"/>
-		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+	<section name="org.eclipse.cdt.internal.ui.browser.opentype.OpenTypeActionSettings">
+		<item key="show_namespaces" value="true"/>
+		<item key="show_classes" value="true"/>
+		<item key="show_structs" value="true"/>
+		<item key="show_typedefs" value="true"/>
+		<item key="show_enums" value="true"/>
+		<item key="show_unions" value="true"/>
+		<item key="show_functions" value="true"/>
+		<item key="show_variables" value="true"/>
+		<item key="show_enumerators" value="true"/>
+		<item key="show_macros" value="true"/>
+		<item key="show_lowlevel" value="true"/>
+		<item key="x" value="20"/>
+		<item key="y" value="20"/>
+		<item key="width" value="619"/>
+		<item key="height" value="650"/>
 	</section>
 </section>

@@ -1,9 +1,32 @@
 //org.eclipse.ui.commands/state/org.eclipse.ui.navigator.resources.nested.changeProjectPresentation/org.eclipse.ui.commands.radioState=false
+ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc
+ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jface.textfont
 eclipse.preferences.version=1
+editors=<?xml version\="1.0" encoding\="UTF-8"?>\n<editors>\n<descriptor id\="org.eclipse.ui.browser.editorSupport" image\="$nl$/icons/obj16/internal_browser.png" internal\="false" label\="Web Browser" launcher\="org.eclipse.ui.internal.browser.BrowserLauncher" openMode\="4" open_in_place\="false" plugin\="org.eclipse.ui.browser"/>\n<descriptor class\="org.eclipse.oomph.setup.presentation.SetupEditor" id\="org.eclipse.oomph.setup.presentation.SetupEditorID" image\="icons/full/obj16/SetupModelFile.gif" internal\="true" label\="Setup Editor" openMode\="1" open_in_place\="false" plugin\="org.eclipse.oomph.setup.editor"/>\n<descriptor class\="org.eclipse.oomph.workingsets.presentation.WorkingSetsEditor" id\="org.eclipse.oomph.workingsets.presentation.WorkingSetsEditorID" image\="icons/full/obj16/WorkingSetsModelFile.gif" internal\="true" label\="Working Sets Editor" openMode\="1" open_in_place\="false" plugin\="org.eclipse.oomph.workingsets.editor"/>\n<descriptor id\="org.eclipse.linuxtools.gcov.editor" image\="icons/toggle.gif" internal\="false" label\="Gcov Editor" launcher\="org.eclipse.linuxtools.internal.gcov.action.OpenGCAction" openMode\="4" open_in_place\="false" plugin\="org.eclipse.linuxtools.gcov.core"/>\n<descriptor class\="com.cthing.cmakeed.ui.editor.CMakeEditor" id\="com.cthing.cmakeed.ui.editor.CMakeEditor" image\="icons/CMakeLogo.gif" internal\="true" label\="CMake Editor" openMode\="1" open_in_place\="false" plugin\="com.cthing.cmakeed.ui"/>\n<descriptor class\="org.eclipse.linuxtools.internal.changelog.core.editors.ChangeLogEditor" id\="org.eclipse.linuxtools.changelog.editor" image\="icons/file_obj.gif" internal\="true" label\="ChangeLog Editor" openMode\="1" open_in_place\="false" plugin\="org.eclipse.linuxtools.changelog.core"/>\n<descriptor id\="org.eclipse.linuxtools.gprof.editor.single" image\="icons/toggle.gif" internal\="false" label\="Gprof Editor" launcher\="org.eclipse.linuxtools.internal.gprof.action.OpenGmonAction" openMode\="4" open_in_place\="false" plugin\="org.eclipse.linuxtools.gprof"/>\n</editors>
+org.eclipse.cdt.debug.ui.ModulesDetailPaneFont=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.cdt.internal.ui.compare.AsmMergeViewer=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.cdt.internal.ui.compare.CMergeViewer=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.cdt.make.internal.ui.compare.MakefileMergeViewer=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.cdt.ui.buildconsole.ConsoleFont=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.cdt.ui.editors.textfont=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.compare.contentmergeviewer.TextMergeViewer=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.debug.ui.DetailPaneFont=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.debug.ui.MemoryViewTableFont=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.debug.ui.consoleFont=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.egit.ui.CommitMessageEditorFont=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.egit.ui.CommitMessageFont=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.egit.ui.DiffHeadlineFont=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.jface.textfont=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.mylyn.wikitext.ui.presentation.textFont=1|Monospace|12.0|0|GTK|1|;
+org.eclipse.tracecompass.tmf.ui.font.eventraw=1|Monospace|12.0|0|GTK|1|;
 org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_END=255,255,255
 org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_BG_START=255,255,255
 org.eclipse.ui.workbench.ACTIVE_NOFOCUS_TAB_TEXT_COLOR=16,16,16
 org.eclipse.ui.workbench.ACTIVE_TAB_BG_END=255,255,255
 org.eclipse.ui.workbench.ACTIVE_TAB_BG_START=255,255,255
+org.eclipse.ui.workbench.ACTIVE_TAB_TEXT_COLOR=61,61,61
 org.eclipse.ui.workbench.INACTIVE_TAB_BG_END=246,245,244
 org.eclipse.ui.workbench.INACTIVE_TAB_BG_START=246,245,244
+org.eclipse.wst.sse.ui.textfont=1|Monospace|12.0|0|GTK|1|;
+resourcetypes=<?xml version\="1.0" encoding\="UTF-8"?>\n<editors version\="3.1">\n<info extension\="shtml" name\="*">\n<editor id\="org.eclipse.ui.browser.editorSupport"/>\n</info>\n<info extension\="setup" name\="*">\n<editor id\="org.eclipse.oomph.setup.presentation.SetupEditorID"/>\n</info>\n<info extension\="workingsets" name\="*">\n<editor id\="org.eclipse.oomph.workingsets.presentation.WorkingSetsEditorID"/>\n</info>\n<info extension\="gcno" name\="*">\n<editor id\="org.eclipse.linuxtools.gcov.editor"/>\n<defaultEditor id\="org.eclipse.linuxtools.gcov.editor"/>\n</info>\n<info extension\="cmake" name\="*">\n<editor id\="com.cthing.cmakeed.ui.editor.CMakeEditor"/>\n<defaultEditor id\="com.cthing.cmakeed.ui.editor.CMakeEditor"/>\n</info>\n<info extension\="gcda" name\="*">\n<editor id\="org.eclipse.linuxtools.gcov.editor"/>\n<defaultEditor id\="org.eclipse.linuxtools.gcov.editor"/>\n</info>\n<info extension\="" name\="ChangeLog">\n<editor id\="org.eclipse.linuxtools.changelog.editor"/>\n<defaultEditor id\="org.eclipse.linuxtools.changelog.editor"/>\n</info>\n<info extension\="htm" name\="*">\n<editor id\="org.eclipse.ui.browser.editorSupport"/>\n</info>\n<info extension\="html" name\="*">\n<editor id\="org.eclipse.ui.browser.editorSupport"/>\n</info>\n<info extension\="out" name\="gmon">\n<editor id\="org.eclipse.linuxtools.gprof.editor.single"/>\n<defaultEditor id\="org.eclipse.linuxtools.gprof.editor.single"/>\n</info>\n<info extension\="sum" name\="gmon">\n<editor id\="org.eclipse.linuxtools.gprof.editor.single"/>\n<defaultEditor id\="org.eclipse.linuxtools.gprof.editor.single"/>\n</info>\n<info extension\="ctest" name\="*">\n<editor id\="com.cthing.cmakeed.ui.editor.CMakeEditor"/>\n<defaultEditor id\="com.cthing.cmakeed.ui.editor.CMakeEditor"/>\n</info>\n</editors>
+terminal.views.view.font.definition=1|Monospace|12.0|0|GTK|1|;

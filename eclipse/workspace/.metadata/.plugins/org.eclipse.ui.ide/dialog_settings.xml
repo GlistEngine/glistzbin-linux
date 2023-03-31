@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
-		<item key="OUTSIDE_LOCATION" value="/home/noyan/dev/glist/myglistapps/gamemartyr"/>
-	</section>
-	<section name="CleanDialogSettings">
-		<item key="TOGGLE_SELECTED" value="false"/>
-		<item key="DIALOG_WIDTH" value="563"/>
-		<item key="DIALOG_HEIGHT" value="369"/>
-		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		<item key="OUTSIDE_LOCATION" value="/home/noyan/dev/glist/myglistapps/GlistApp"/>
 	</section>
 </section>

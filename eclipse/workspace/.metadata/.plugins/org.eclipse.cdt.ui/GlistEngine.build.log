@@ -1,20 +1,4 @@
-19:24:37 **** Incremental Build of configuration Release for project GlistEngine ****
-/usr/bin/make all 
-/usr/local/bin/cmake -S/home/noyan/dev/glist/glistengine/engine -B/home/noyan/dev/glist/glistengine/engine/build/Release --check-build-system CMakeFiles/Makefile.cmake 0
-/usr/local/bin/cmake -E cmake_progress_start /home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles /home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/progress.marks
-/usr/bin/make -f CMakeFiles/Makefile2 all
-make[1]: Entering directory '/home/noyan/dev/glist/glistengine/engine/build/Release'
-/usr/bin/make -f CMakeFiles/GlistEngine.dir/build.make CMakeFiles/GlistEngine.dir/depend
-make[2]: Entering directory '/home/noyan/dev/glist/glistengine/engine/build/Release'
-cd /home/noyan/dev/glist/glistengine/engine/build/Release && /usr/local/bin/cmake -E cmake_depends "Unix Makefiles" /home/noyan/dev/glist/glistengine/engine /home/noyan/dev/glist/glistengine/engine /home/noyan/dev/glist/glistengine/engine/build/Release /home/noyan/dev/glist/glistengine/engine/build/Release /home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles/GlistEngine.dir/DependInfo.cmake --color=
-make[2]: Leaving directory '/home/noyan/dev/glist/glistengine/engine/build/Release'
-/usr/bin/make -f CMakeFiles/GlistEngine.dir/build.make CMakeFiles/GlistEngine.dir/build
-make[2]: Entering directory '/home/noyan/dev/glist/glistengine/engine/build/Release'
-make[2]: Nothing to be done for 'CMakeFiles/GlistEngine.dir/build'.
-make[2]: Leaving directory '/home/noyan/dev/glist/glistengine/engine/build/Release'
-[100%] Built target GlistEngine
-make[1]: Leaving directory '/home/noyan/dev/glist/glistengine/engine/build/Release'
-/usr/local/bin/cmake -E cmake_progress_start /home/noyan/dev/glist/glistengine/engine/build/Release/CMakeFiles 0
 
-19:24:37 Build Finished. 0 errors, 0 warnings. (took 625ms)
+**** Build of configuration Release for project GlistEngine ****
 
+Nothing to build for project GlistEngine
