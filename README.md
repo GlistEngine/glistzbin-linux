@@ -12,7 +12,7 @@ After extraction, your folder structure should look like that:<br/>
 --------- eclipse/<br/>
 --------- mingw64/<br/>
 --------- GlistEngine<br/>
---------- LICENCE<br/>
+--------- LICENSE<br/>
 --------- README.md<br/>
 
 Please see [readme](https://github.com/GlistEngine/GlistEngine/blob/main/README.md) page of GlistEngine for more information about installation.
